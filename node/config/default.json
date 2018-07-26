@@ -1,0 +1,6 @@
+{
+    "appSecret": "0c82866f6d30687b3bbb167d764fd423",
+    "pageAccessToken": "EAADFnBAYUbcBAHDg3xRq3EMdlXY77yAuXgFVxZAFxR8jCFQnudc1uZCRWSBrULzzqiYnpZB6TYp6AFLHbdX3g2G7pfGdWSlBQQ81O1ZCvMWlH3lijuITibfF7fUdoIhEIv8yI5Y5hJStcGTr4d7f6MywI2fMQcWEasZBa7PxEZCgZDZD",
+    "validationToken": "my_io_talk_secret",
+    "serverURL": "https://morning-bastion-65665.herokuapp.com/"
+}
